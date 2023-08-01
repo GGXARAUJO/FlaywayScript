@@ -1,0 +1,4 @@
+CREATE TABLE hello_world2 (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    message VARCHAR(255) NOT NULL
+);
