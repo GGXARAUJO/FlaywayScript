@@ -1,4 +1,0 @@
-CREATE TABLE hello_world3 (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    message VARCHAR(255) NOT NULL
-);
